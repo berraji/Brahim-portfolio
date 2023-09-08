@@ -73,4 +73,4 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student at INRIA Lille working with Michael Perrot and Aurelian Bellet and Catuscia PALAMIDESSI on the challenges related to enforcing fairness in the federated learning settings.  previously I was a masters student at MBZUAI and worked on personalization in federated learning through an optimization persepective with Martin Takac. Before that I did my bachelors in Data science at Univeristy of Mohamed 6 Polytechnique.
+I am a PhD student at INRIA Lille working with Michael Perrot, Aurelian Bellet and Catuscia PALAMIDESSI on the challenges related to enforcing fairness in the federated learning settings.  previously I was a masters student at MBZUAI and worked on personalization in federated learning through an optimization persepective with Martin Takac. Before that I did my bachelors in Data science at Univeristy of Mohamed 6 Polytechnique.
