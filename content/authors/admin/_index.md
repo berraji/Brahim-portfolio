@@ -39,7 +39,7 @@ education:
       institution: MBZUAI, Abu Dhabi, UAE.
       year: 2021-2023
     - course: BSc in Data Science
-      institution: UM6P, Benguerir, Morocco
+      institution: UM6P, Benguerir, Morocco.
       year: 2018-2021
 
 # Social/Academic Networking
@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mail:errajibrahim20@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
