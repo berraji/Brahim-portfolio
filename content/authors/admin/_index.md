@@ -33,7 +33,7 @@ interests:
 education:
   courses:
     - course: PhD 
-      institution: INRIA Lille, France.
+      institution: INRIA, Lille, France.
       year: 2023 -
     - course: MSc in Machine Learning
       institution: MBZUAI, Abu Dhabi, UAE.
