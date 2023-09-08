@@ -49,16 +49,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mail:errajibrahim20@gmail.com'
+    link: mail:errajibrahim20@gmail.com
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=5m_NEOAAAAAJ&hl=fr&oi=sra
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/berraji
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/brahim-erraji-b2a4801ba/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
